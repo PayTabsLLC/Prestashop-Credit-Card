@@ -3,7 +3,7 @@ Pestashop Sadad
 
 PayTabs plugin for Pestashop Sadad (1.5.x)+
 
-This is a PayTabs Payment Gateway(Sadad) Extension for Pestashop 1.5.x
+This is a PayTabs Payment Gateway Extension for Pestashop 1.5.x
 
 Installation
 
